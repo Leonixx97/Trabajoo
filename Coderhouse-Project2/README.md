@@ -1,7 +1,7 @@
 # Coderhouse-Project2
 Proyecto 2 - Coderhouse - Python - Comision 55350
 
-Se trata de un boceto de una página administrativa de un barrio privado X
+Se trata de un boceto de una página administrativa de un Golf Club X
 
 
 ------------------ FUNCIONALIDADES ------------------
